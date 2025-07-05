@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This **Football Management System** is a console-based C++ project that simulates the operations of a football club. It allows you to:
+This **Football Management System** is a console-based C++ project that simulates the operations of a football club. It allows to:
 
 - Add and view players, stadiums, chairmen, and winners.
 - Simulate football matches (practice and league).
@@ -39,6 +39,19 @@ This **Football Management System** is a console-based C++ project that simulate
   - Motor Skill
   - Cognitive Skill
   - Perception Skill
+
+### 🧾 Menu Options
+    1. ADD STADIUM
+    2. DISPLAY STADIUM
+    3. ADD CHAIRMAN
+    4. DISPLAY CHAIRMAN
+    5. PLAY A GAME
+    6. ADD PLAYER
+    7. DISPLAY PLAYER
+    8. GET TEAM
+    9. ADD WINNER LIST
+    10. GET WINNER LIST
+    11. QUIT
 
 ### 🔐 Exception Handling
 
