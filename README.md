@@ -41,18 +41,19 @@ This **Football Management System** is a console-based C++ project that simulate
   - Perception Skill
 
 ### 🧾 Menu Options
-    1. ADD STADIUM
-    2. DISPLAY STADIUM
-    3. ADD CHAIRMAN
-    4. DISPLAY CHAIRMAN
-    5. PLAY A GAME
-    6. ADD PLAYER
-    7. DISPLAY PLAYER
-    8. GET TEAM
-    9. ADD WINNER LIST
-    10. GET WINNER LIST
-    11. QUIT
-
+```text
+  1. ADD STADIUM
+  2. DISPLAY STADIUM
+  3. ADD CHAIRMAN
+  4. DISPLAY CHAIRMAN
+  5. PLAY A GAME
+  6. ADD PLAYER
+  7. DISPLAY PLAYER
+  8. GET TEAM
+  9. ADD WINNER LIST
+  10. GET WINNER LIST
+  11. QUIT
+---
 
 ### 🔐 Exception Handling
 
